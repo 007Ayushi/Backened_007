@@ -1,5 +1,5 @@
 {
-  "name": "01backened",
+  "name": "backeneddevelopment",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,18 @@
   ],
   "author": "Ayushi Gupta",
   "license": "ISC",
-  "description": "",
+  "description": "Ready to become a backened developer",
   "dependencies": {
     "dotenv": "^16.4.7",
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/007Ayushi/Backened_007.git"
+  },
+  "bugs": {
+    "url": "https://github.com/007Ayushi/Backened_007/issues"
+  },
+  "homepage": "https://github.com/007Ayushi/Backened_007#readme"
 }
